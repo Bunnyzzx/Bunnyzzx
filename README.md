@@ -1,21 +1,19 @@
 # 💻 About Me:
 About Me :<br><br>
-🔴 🔭 I’m currently working on improving my skills in software development and building personal projects  <br>
-⚫ 👯 I’m looking to collaborate on tech projects, especially involving Python, C++, or Java  <br>
-🔴 🤝 I’m looking for help with leveling up my Java and software engineering knowledge  <br>
-⚫ 🌱 I’m currently learning Java (and I’m really enjoying it btw lol)  <br>
-🔴 💬 Ask me about Python, C++, programming, robotics, cars, and anything tech-related  <br>
-⚫ ⚡ Fun fact: I love mechanics, cars, and everything related to IT  <br><br>
+- I’m currently working on improving my skills in software development and building personal projects  <br>
+- I’m looking to collaborate on tech projects, especially involving Python, C++, or Java  <br>
+- I’m looking for help with leveling up my Java and software engineering knowledge  <br>
+- I’m currently learning Java (and I’m really enjoying it btw lol)  <br>
+- Ask me about Python, C++, programming, robotics, cars, and anything tech-related  <br>
 
 Hi, I’m Caio 👋  <br>
-🔴 I’m 21 years old  <br>
-⚫ Software Engineering student at Inatel  <br>
-🔴 I have experience working in the robotics field 🤖  <br>
-⚫ I mainly use Python and C++, and I’m currently learning Java  <br><br>
-
-🔴 I really enjoy mechanics and working on cars 🚗  <br>
-⚫ I also like gaming 🎮 and everything related to technology  <br>
-🔴 Passionate about combining hardware and software 🤖💻  
+- I’m 21 years old  <br>
+- Software Engineering student at Inatel  <br>
+- I have experience working in the robotics/automation field 🤖  <br>
+- I mainly use Python and C++, and I’m currently learning Java  <br><br>
+- I really enjoy mechanics and working on cars 🚗  <br>
+- I also like gaming 🎮 and everything related to technology  <br>
+- Passionate about combining hardware and software 🤖💻  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bunnyzzw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caioxhtps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-de-castro-yarouhas) 
