@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 About Me :<br><br>🔭 I’m currently working on improving my skills in software development and building personal projects  <br>👯 I’m looking to collaborate on tech projects, especially involving Python, C++, or Java  <br>🤝 I’m looking for help with leveling up my Java and software engineering knowledge  <br>🌱 I’m currently learning Java (and I’m really enjoying it btw lol)  <br>💬 Ask me about Python, C++, programming, cars, and anything tech-related  <br>⚡ Fun fact: I love mechanics, cars, and everything related to IT  <br><br>Hi, I’m Caio 👋  <br>I’m 21 years old and a Software Engineering student.  <br>I mainly use Python and C++, and I’m currently learning Java.
 
 
