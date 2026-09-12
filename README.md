@@ -34,6 +34,7 @@
 
 <br>
 <br>
+<br>
 
 ---
 
@@ -43,11 +44,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,cpp,ts,python,js" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `Java` • `C++` • `TypeScript` • `Python` • `JavaScript`
 
@@ -61,11 +58,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,jenkins,npm" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -75,19 +68,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bunnyzzx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bunnyzzx&theme=github_dark" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyzzx&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bunnyzzx&theme=github_dark" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Activity
 
 <div align="center">
 
@@ -101,17 +94,17 @@
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/caio-de-castro-yarouhas-5764bb266">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_LINK_INSTAGRAM">
+<a href="https://www.instagram.com/caioxhtps">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
