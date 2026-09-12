@@ -1,34 +1,120 @@
-# 💻 About Me:
-About Me :<br><br>
-- I’m currently working on improving my skills in software development and building personal projects  <br>
-- I’m looking to collaborate on tech projects, especially involving Python, C++, or Java  <br>
-- I’m looking for help with leveling up my Java and software engineering knowledge  <br>
-- I’m currently learning Java (and I’m really enjoying it btw lol)  <br>
-- Ask me about Python, C++, programming, robotics, cars, and anything tech-related  <br>
+<div align="center">
 
-Hi, I’m Caio 👋  <br>
-- I’m 21 years old  <br>
-- Software Engineering student at Inatel  <br>
-- I have experience working in the robotics/automation field 🤖  <br>
-- I mainly use Python and C++, and I’m currently learning Java  <br><br>
-- I really enjoy mechanics and working on cars 🚗  <br>
-- I also like gaming 🎮 and everything related to technology  <br>
-- Passionate about combining hardware and software 🤖💻  
+# 👋 Hey, I'm Caio
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bunnyzzw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caioxhtps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-de-castro-yarouhas) 
+### Software Engineering Student @ Inatel
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bunnyzzx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bunnyzzx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bunnyzzx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="./assets/banner.gif" width="700"/>
+
+<br><br>
+
+`software development` • `backend` • `data` • `devops`
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bunnyzzx&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 About Me
+
+<img align="right" src="./assets/coding.gif" width="230"/>
+
+🎓 Software Engineering student at **Inatel**
+
+💻 Focused on **software development and backend**
+
+🐍 Working with **Python and data analysis**
+
+☕ Developing applications with **Java**
+
+⚙️ Learning and applying **testing, software architecture and DevOps**
+
+🚀 Always building new projects and improving my skills
+
+<br>
+<br>
+
+---
+
+## ⚡ Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,ts,python,js" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Java` • `C++` • `TypeScript` • `Python` • `JavaScript`
+
+</div>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,jenkins,npm" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bunnyzzx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyzzx&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bunnyzzx&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_LINK_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/footer.gif" width="450"/>
+
+</div>
