@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/Requiem_video_no_watermark.gif" width="700"/>
+<img src="./assets/yuta.gif" width="700"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 ## 💻 About Me
 
-<img align="right" src="./assets/yuta.gif" width="230"/>
+<img align="right" src="./assets/Requiem_video_no_watermark.gif" width="230"/>
 
 🎓 Software Engineering student at **Inatel**
 
