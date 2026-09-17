@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/banner.gif" width="700"/>
+<img src="./assets/Requiem_video_no_watermark.gif" width="700"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 ## 💻 About Me
 
-<img align="right" src="./assets/coding.gif" width="230"/>
+<img align="right" src="./assets/yuta.gif" width="230"/>
 
 🎓 Software Engineering student at **Inatel**
 
@@ -47,6 +47,14 @@
 <br><br>
 
 `Java` • `C++` • `TypeScript` • `Python` • `JavaScript`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/nx_video_no_watermark.gif" width="500"/>
 
 </div>
 
@@ -90,6 +98,14 @@
 
 ---
 
+<div align="center">
+
+<img src="./assets/tiktok_video_no_watermark.gif" width="500"/>
+
+</div>
+
+---
+
 ## 📫 Contact
 
 <div align="center">
@@ -108,6 +124,6 @@
 
 <div align="center">
 
-<img src="./assets/footer.gif" width="450"/>
+<img src="./assets/m4x_cs_video_no_watermark.gif" width="600"/>
 
 </div>
